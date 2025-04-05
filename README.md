@@ -1,6 +1,6 @@
 # AdventureWorks Sales Analysis 🚀
 
-This project analyzes the AdventureWorks database using SQL, Excel, and Power BI to derive business insights on sales performance, customer segments, and product trends.
+This project analyzes the AdventureWorks database using SQL, Excel, Power BI and Tableau to derive business insights on sales performance, customer segments, and product trends.
 
 ## 📁 Tools Used
 - SQL Server
